@@ -1,3 +1,3 @@
 # github-actions-test
 
-This repository is for practicing GitHub Actions and CI workflows.
+This repository is for practicing GitHub Actions And CI workflows.
