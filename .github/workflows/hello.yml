@@ -3,6 +3,7 @@ name: Hello Workflow
 on: 
   push:
   workflow_dispatch:
+  workflow_call:
 
 jobs:
   say-hello:
